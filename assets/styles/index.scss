@@ -3,8 +3,11 @@ $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
 
 $black: #000;
 
-.square {
-  width:100px;
-  height:100px;
+.container {
+  padding: 20px;
+}
+
+.col-xs-4 {
+  height: 200px;
   border: 2px solid $black;
 }
